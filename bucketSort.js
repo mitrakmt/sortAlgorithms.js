@@ -1,3 +1,5 @@
+// Article url: https://initjs.org/bucket-sort-in-javascript-dc040b8f0058#.5j5ls9und
+
 // InsertionSort to be used within bucket sort
 function insertionSort(array) {
   var length = array.length;
